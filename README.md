@@ -2,7 +2,7 @@
 # chatbot
 Kakao-ChatBot with React.js
 =======
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
++ 2020.09.06 17:00 pm ---> Header, Body 나눔
 
 ## Available Scripts
 
