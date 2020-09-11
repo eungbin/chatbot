@@ -2,7 +2,8 @@
 # chatbot
 Kakao-ChatBot with React.js
 =======
-+ 2020.09.06 17:00 pm ---> Header, Body 나눔
++ 2020.09.06  --->  Header, Body 나눔
++ 2020.09.11  --->  카카오 i 오픈빌더 챗봇 생성완료 + 인사말 추가
 
 ## Available Scripts
 
